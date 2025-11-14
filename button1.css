@@ -1,0 +1,35 @@
+.danger{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.submit{
+    background-color: rgb(5, 53, 5);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.click{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.change{
+    height: 40px;
+    width: 100px;   
+    background-color: purple;
+    margin:10px 10px 10px 10px;
+    transition:0.000000005s
+}
+.c{
+    background-color: rgb(56, 52, 45);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
